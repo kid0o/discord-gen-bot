@@ -1,0 +1,10 @@
+{
+  "token": "BOT TOKEN", 
+  "prefix": "BOT PREFIX",
+  "allowedRoles": [
+    "ALLOWED ROLE NAME"
+  ],
+  "allowedChannels": [
+    "ALLOWED CHANNEL IDS" 
+  ]
+}
